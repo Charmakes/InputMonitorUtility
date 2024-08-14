@@ -41,7 +41,7 @@ The **Input Monitor** is a Python-based tool that captures and logs keystrokes f
 
 2. **Set the interval:**
 
-   - The interval is set to 60 seconds by default. You can change this value in the `InputMonitor` class initialization.
+   You can change this value in the `InputMonitor` class initialization.
 
      ```python
      monitor = InputMonitor(60, 'your_email@example.com', 'your_app_password_here')
